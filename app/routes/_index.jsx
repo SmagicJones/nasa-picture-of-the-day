@@ -43,7 +43,7 @@ export default function Home({ loaderData }) {
             <p className="p-2">{data.explanation}</p>
           </CardContent>
           <CardFooter>
-            <p>Card Footer</p>
+            <p>Built by Bob Holland with Data from Nasa</p>
           </CardFooter>
         </Card>
       </section>
